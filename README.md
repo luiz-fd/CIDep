@@ -4,9 +4,10 @@
  
 CIDep (Componentes e Injeção de Dependência) é uma aplicação backend construída durante o treinamento spring java, organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
 
-A aplicação consiste em calcular o valor total, aplicando as regras de negócio aos dados são recebidos.
+A aplicação consiste em calcular o valor total, aplicando as regras de negócio aos dados de entrada.
 
 ## Regras de negócio
+Valor Total = Valor Básico - Desconto + Frete
 ![regras](https://github.com/luiz-fd/CIDep/assets/58195921/6e45a32b-c642-4c8d-8365-5cf69f572139)
 
 
