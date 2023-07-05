@@ -18,6 +18,4 @@ Valor Total = Valor Básico - Desconto + Frete
 # Tecnologias utilizadas
 ## Back end
 - Java
-- Spring Boot
-- JPA / Hibernate
 - Maven
